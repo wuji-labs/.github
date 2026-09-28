@@ -12,6 +12,11 @@ many gifts.*
 
 ---
 
+<p align="center">
+  <img src="assets/wechat-personal.jpg" alt="Add WUJI on WeChat" width="200">
+</p>
+<p align="center">扫码添加作者微信 · Scan to add the author on WeChat</p>
+
 ## 华夏十大 · HuaXia Skills
 
 Ten open-source AI skills, each distilling one classical Chinese source into a
@@ -39,7 +44,3 @@ by book and chapter. Benchmark numbers are produced by real runs — never pre-f
 
 > 招牌是诗性的品牌名，弹药是工程上的知识来源 — the name is poetry, the reference
 > library is the engineering payload.
-
-## 联系 · Contact
-扫码添加无极微信，交流合作 · Scan to add WUJI on WeChat
-<img src="assets/wechat-qr.png" width="200" alt="WUJI WeChat QR">
